@@ -113,7 +113,7 @@ function translateDayOfWeek(dayOfWeek) {
   return translations[dayOfWeek] || dayOfWeek;
 }
 
-// Перечисление для опций клавиатуры
+// Перечисление опций клавиатуры
 const KeyboardOptions = {
   WEATHER: 'Узнать погоду',
   ADD_CITY: 'Добавить город',
